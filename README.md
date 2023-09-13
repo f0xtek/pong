@@ -2,6 +2,8 @@
 
 A LÖVE 2D clone of the retro Pong game.
 
+![Screenshot](./docs/screenshot.png)
+
 ## Prerequisites
 
 - Install [LÖVE](https://love2d.org/)
